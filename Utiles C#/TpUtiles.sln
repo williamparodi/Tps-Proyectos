@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entidades", "TpUtiles\Entidades.csproj", "{F04E6F30-F12C-4530-8960-F0868245C3CA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Test-Cartuchera", "Test-Cartuchera\Test-Cartuchera.csproj", "{8F483E15-4513-4B7B-9C1C-01612A4E1871}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vista", "Vista\Vista.csproj", "{1F1E4965-0471-4105-B437-C2F61F29C6E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F04E6F30-F12C-4530-8960-F0868245C3CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F04E6F30-F12C-4530-8960-F0868245C3CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F04E6F30-F12C-4530-8960-F0868245C3CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F04E6F30-F12C-4530-8960-F0868245C3CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F483E15-4513-4B7B-9C1C-01612A4E1871}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F483E15-4513-4B7B-9C1C-01612A4E1871}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F483E15-4513-4B7B-9C1C-01612A4E1871}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F483E15-4513-4B7B-9C1C-01612A4E1871}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F1E4965-0471-4105-B437-C2F61F29C6E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F1E4965-0471-4105-B437-C2F61F29C6E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F1E4965-0471-4105-B437-C2F61F29C6E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F1E4965-0471-4105-B437-C2F61F29C6E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E25055B0-3840-417D-8503-6EF8260FD094}
+	EndGlobalSection
+EndGlobal

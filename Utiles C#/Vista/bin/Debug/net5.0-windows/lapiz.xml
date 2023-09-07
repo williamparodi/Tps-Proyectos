@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lapiz xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Precio>36</Precio>
+  <Marca>Plexy</Marca>
+  <Id>0</Id>
+  <Color>Rojo</Color>
+  <TipoDeLapiz>Grafito</TipoDeLapiz>
+</Lapiz>
