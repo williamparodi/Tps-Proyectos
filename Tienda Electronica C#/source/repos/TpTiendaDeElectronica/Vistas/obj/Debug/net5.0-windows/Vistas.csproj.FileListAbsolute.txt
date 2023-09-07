@@ -1,0 +1,55 @@
+C:\Users\Willy\Desktop\Nueva carpeta\Parodi.JonWilliam.PPLaboII\source\repos\TpTiendaDeElectronica\Vistas\bin\Debug\net5.0-windows\Vistas.exe
+C:\Users\Willy\Desktop\Nueva carpeta\Parodi.JonWilliam.PPLaboII\source\repos\TpTiendaDeElectronica\Vistas\bin\Debug\net5.0-windows\Vistas.deps.json
+C:\Users\Willy\Desktop\Nueva carpeta\Parodi.JonWilliam.PPLaboII\source\repos\TpTiendaDeElectronica\Vistas\bin\Debug\net5.0-windows\Vistas.runtimeconfig.json
+C:\Users\Willy\Desktop\Nueva carpeta\Parodi.JonWilliam.PPLaboII\source\repos\TpTiendaDeElectronica\Vistas\bin\Debug\net5.0-windows\Vistas.runtimeconfig.dev.json
+C:\Users\Willy\Desktop\Nueva carpeta\Parodi.JonWilliam.PPLaboII\source\repos\TpTiendaDeElectronica\Vistas\bin\Debug\net5.0-windows\Vistas.dll
+C:\Users\Willy\Desktop\Nueva carpeta\Parodi.JonWilliam.PPLaboII\source\repos\TpTiendaDeElectronica\Vistas\bin\Debug\net5.0-windows\Vistas.pdb
+C:\Users\Willy\Desktop\Nueva carpeta\Parodi.JonWilliam.PPLaboII\source\repos\TpTiendaDeElectronica\Vistas\bin\Debug\net5.0-windows\Entidades.dll
+C:\Users\Willy\Desktop\Nueva carpeta\Parodi.JonWilliam.PPLaboII\source\repos\TpTiendaDeElectronica\Vistas\bin\Debug\net5.0-windows\Entidades.pdb
+C:\Users\Willy\Desktop\Nueva carpeta\Parodi.JonWilliam.PPLaboII\source\repos\TpTiendaDeElectronica\Vistas\obj\Debug\net5.0-windows\Vistas.csproj.AssemblyReference.cache
+C:\Users\Willy\Desktop\Nueva carpeta\Parodi.JonWilliam.PPLaboII\source\repos\TpTiendaDeElectronica\Vistas\obj\Debug\net5.0-windows\Vistas.FrmAdminStock.resources
+C:\Users\Willy\Desktop\Nueva carpeta\Parodi.JonWilliam.PPLaboII\source\repos\TpTiendaDeElectronica\Vistas\obj\Debug\net5.0-windows\Vistas.FrmDetalleCompra.resources
+C:\Users\Willy\Desktop\Nueva carpeta\Parodi.JonWilliam.PPLaboII\source\repos\TpTiendaDeElectronica\Vistas\obj\Debug\net5.0-windows\Vistas.FrmEstadisticas.resources
+C:\Users\Willy\Desktop\Nueva carpeta\Parodi.JonWilliam.PPLaboII\source\repos\TpTiendaDeElectronica\Vistas\obj\Debug\net5.0-windows\Vistas.FrmLogin.resources
+C:\Users\Willy\Desktop\Nueva carpeta\Parodi.JonWilliam.PPLaboII\source\repos\TpTiendaDeElectronica\Vistas\obj\Debug\net5.0-windows\Vistas.FrmMenuPrincipal.resources
+C:\Users\Willy\Desktop\Nueva carpeta\Parodi.JonWilliam.PPLaboII\source\repos\TpTiendaDeElectronica\Vistas\obj\Debug\net5.0-windows\Vistas.FrmVenta.resources
+C:\Users\Willy\Desktop\Nueva carpeta\Parodi.JonWilliam.PPLaboII\source\repos\TpTiendaDeElectronica\Vistas\obj\Debug\net5.0-windows\Vistas.Properties.Resources.resources
+C:\Users\Willy\Desktop\Nueva carpeta\Parodi.JonWilliam.PPLaboII\source\repos\TpTiendaDeElectronica\Vistas\obj\Debug\net5.0-windows\Vistas.csproj.GenerateResource.cache
+C:\Users\Willy\Desktop\Nueva carpeta\Parodi.JonWilliam.PPLaboII\source\repos\TpTiendaDeElectronica\Vistas\obj\Debug\net5.0-windows\Vistas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willy\Desktop\Nueva carpeta\Parodi.JonWilliam.PPLaboII\source\repos\TpTiendaDeElectronica\Vistas\obj\Debug\net5.0-windows\Vistas.AssemblyInfoInputs.cache
+C:\Users\Willy\Desktop\Nueva carpeta\Parodi.JonWilliam.PPLaboII\source\repos\TpTiendaDeElectronica\Vistas\obj\Debug\net5.0-windows\Vistas.AssemblyInfo.cs
+C:\Users\Willy\Desktop\Nueva carpeta\Parodi.JonWilliam.PPLaboII\source\repos\TpTiendaDeElectronica\Vistas\obj\Debug\net5.0-windows\Vistas.csproj.CoreCompileInputs.cache
+C:\Users\Willy\Desktop\Nueva carpeta\Parodi.JonWilliam.PPLaboII\source\repos\TpTiendaDeElectronica\Vistas\obj\Debug\net5.0-windows\Vistas.csproj.CopyComplete
+C:\Users\Willy\Desktop\Nueva carpeta\Parodi.JonWilliam.PPLaboII\source\repos\TpTiendaDeElectronica\Vistas\obj\Debug\net5.0-windows\Vistas.dll
+C:\Users\Willy\Desktop\Nueva carpeta\Parodi.JonWilliam.PPLaboII\source\repos\TpTiendaDeElectronica\Vistas\obj\Debug\net5.0-windows\refint\Vistas.dll
+C:\Users\Willy\Desktop\Nueva carpeta\Parodi.JonWilliam.PPLaboII\source\repos\TpTiendaDeElectronica\Vistas\obj\Debug\net5.0-windows\Vistas.pdb
+C:\Users\Willy\Desktop\Nueva carpeta\Parodi.JonWilliam.PPLaboII\source\repos\TpTiendaDeElectronica\Vistas\obj\Debug\net5.0-windows\Vistas.genruntimeconfig.cache
+C:\Users\Willy\Desktop\Nueva carpeta\Parodi.JonWilliam.PPLaboII\source\repos\TpTiendaDeElectronica\Vistas\obj\Debug\net5.0-windows\ref\Vistas.dll
+C:\Users\Willy\source\repos\TpTiendaDeElectronica\Vistas\obj\Debug\net5.0-windows\Vistas.csproj.AssemblyReference.cache
+C:\Users\Willy\source\repos\TpTiendaDeElectronica\Vistas\obj\Debug\net5.0-windows\Vistas.FrmAdminStock.resources
+C:\Users\Willy\source\repos\TpTiendaDeElectronica\Vistas\obj\Debug\net5.0-windows\Vistas.FrmDetalleCompra.resources
+C:\Users\Willy\source\repos\TpTiendaDeElectronica\Vistas\obj\Debug\net5.0-windows\Vistas.FrmEstadisticas.resources
+C:\Users\Willy\source\repos\TpTiendaDeElectronica\Vistas\obj\Debug\net5.0-windows\Vistas.FrmLogin.resources
+C:\Users\Willy\source\repos\TpTiendaDeElectronica\Vistas\obj\Debug\net5.0-windows\Vistas.FrmMenuPrincipal.resources
+C:\Users\Willy\source\repos\TpTiendaDeElectronica\Vistas\obj\Debug\net5.0-windows\Vistas.FrmVenta.resources
+C:\Users\Willy\source\repos\TpTiendaDeElectronica\Vistas\obj\Debug\net5.0-windows\Vistas.Properties.Resources.resources
+C:\Users\Willy\source\repos\TpTiendaDeElectronica\Vistas\obj\Debug\net5.0-windows\Vistas.csproj.GenerateResource.cache
+C:\Users\Willy\source\repos\TpTiendaDeElectronica\Vistas\obj\Debug\net5.0-windows\Vistas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willy\source\repos\TpTiendaDeElectronica\Vistas\obj\Debug\net5.0-windows\Vistas.AssemblyInfoInputs.cache
+C:\Users\Willy\source\repos\TpTiendaDeElectronica\Vistas\obj\Debug\net5.0-windows\Vistas.AssemblyInfo.cs
+C:\Users\Willy\source\repos\TpTiendaDeElectronica\Vistas\obj\Debug\net5.0-windows\Vistas.csproj.CoreCompileInputs.cache
+C:\Users\Willy\source\repos\TpTiendaDeElectronica\Vistas\bin\Debug\net5.0-windows\Vistas.exe
+C:\Users\Willy\source\repos\TpTiendaDeElectronica\Vistas\bin\Debug\net5.0-windows\Vistas.deps.json
+C:\Users\Willy\source\repos\TpTiendaDeElectronica\Vistas\bin\Debug\net5.0-windows\Vistas.runtimeconfig.json
+C:\Users\Willy\source\repos\TpTiendaDeElectronica\Vistas\bin\Debug\net5.0-windows\Vistas.runtimeconfig.dev.json
+C:\Users\Willy\source\repos\TpTiendaDeElectronica\Vistas\bin\Debug\net5.0-windows\Vistas.dll
+C:\Users\Willy\source\repos\TpTiendaDeElectronica\Vistas\bin\Debug\net5.0-windows\Vistas.pdb
+C:\Users\Willy\source\repos\TpTiendaDeElectronica\Vistas\bin\Debug\net5.0-windows\Entidades.dll
+C:\Users\Willy\source\repos\TpTiendaDeElectronica\Vistas\bin\Debug\net5.0-windows\Entidades.pdb
+C:\Users\Willy\source\repos\TpTiendaDeElectronica\Vistas\obj\Debug\net5.0-windows\Vistas.csproj.CopyComplete
+C:\Users\Willy\source\repos\TpTiendaDeElectronica\Vistas\obj\Debug\net5.0-windows\Vistas.dll
+C:\Users\Willy\source\repos\TpTiendaDeElectronica\Vistas\obj\Debug\net5.0-windows\refint\Vistas.dll
+C:\Users\Willy\source\repos\TpTiendaDeElectronica\Vistas\obj\Debug\net5.0-windows\Vistas.pdb
+C:\Users\Willy\source\repos\TpTiendaDeElectronica\Vistas\obj\Debug\net5.0-windows\Vistas.genruntimeconfig.cache
+C:\Users\Willy\source\repos\TpTiendaDeElectronica\Vistas\obj\Debug\net5.0-windows\ref\Vistas.dll
+C:\Users\Willy\source\repos\TpTiendaDeElectronica\Vistas\obj\Debug\net5.0-windows\Vistas.FrmComprarPorductos.resources

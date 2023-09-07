@@ -1,0 +1,5 @@
+C:\Users\Willy\source\repos\TpTiendaDeElectronica\TpTiendaDeElectronica\obj\Debug\net5.0\TpTiendaDeElectronica.csproj.AssemblyReference.cache
+C:\Users\Willy\source\repos\TpTiendaDeElectronica\TpTiendaDeElectronica\obj\Debug\net5.0\TpTiendaDeElectronica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willy\source\repos\TpTiendaDeElectronica\TpTiendaDeElectronica\obj\Debug\net5.0\TpTiendaDeElectronica.AssemblyInfoInputs.cache
+C:\Users\Willy\source\repos\TpTiendaDeElectronica\TpTiendaDeElectronica\obj\Debug\net5.0\TpTiendaDeElectronica.AssemblyInfo.cs
+C:\Users\Willy\source\repos\TpTiendaDeElectronica\TpTiendaDeElectronica\obj\Debug\net5.0\TpTiendaDeElectronica.csproj.CoreCompileInputs.cache
