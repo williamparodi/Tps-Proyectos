@@ -1,0 +1,80 @@
+FUNCIONES TP_2 SPD 2021
+
+/** \brief
+ *  Pone todos los campos en en default y carga la palabra a adivinar de forma aleatoria.
+ *
+ */
+void initGuess();
+
+/** \brief
+ *  Pone los campos de la palabra jugamos en blanco y pone guiones en la palabra a adivinar
+ *
+ */
+void initDisplayWord();
+
+/** \brief
+ *  Se fija que la letra seleccionada esta incluida en la palabra a adivinar.
+ * 
+ */
+void testLetter();
+
+/** \brief 
+ * Permite cambiar la letra dentro del abecedario dependiendo del parametro opNum.
+ *
+ */     
+void changeLetter(int opNum);
+
+/** \brief 
+ * Si recorre las letras selecionadas anteriormente y si se repite devuelve 1 o 0 en caso de error
+ * o de no repetir letra.
+ */     
+int includeGuesses();
+
+/** \brief 
+ * Verifica que la letra elegida este en incluida en la palabra a adivinar
+ * Y cuenta la cantidad de letras adivinadas.
+ *
+ */     
+void findLetters();
+
+
+/** \brief 
+ * Encuentra un espacio y carga una letra.
+ *
+ */     
+void guessesPush();
+
+/** \brief 
+ * Borra un vida y si llegaron a 0 termina el juego
+ * 
+ */     
+void removeLife();
+
+/** \brief 
+ * verifa si el largo de las letras adivinadas es igual al largo de
+ * la palabra a adivinar
+ */     
+void checkWon();
+
+/** \brief 
+ * Carga los campos en vacio de las letras que se muestran en pantalla
+ *
+ */     
+void initGuesses();
+
+/** \brief 
+ * Carga los campos en vacio del mensaje de error de letra repetida. 
+ *
+ */     
+void borrarError();
+
+/** \brief 
+ * Lee y toma los valores los pulsadores conectados a la entrada analogica 
+ *
+ */     
+int leerBoton();
+/** \brief 
+ * Muestra el mensaje de vidas en pantalla.
+ *
+ */     
+void showLives(int lives);
